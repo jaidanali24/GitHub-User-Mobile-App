@@ -1,0 +1,32 @@
+{
+  "name": "MobileApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "material-ui": "^0.20.0",
+    "prop-types": "^15.6.1",
+    "react": "16.3.0-alpha.1",
+    "react-dom": "^16.2.0",
+    "react-native": "^0.54.0-rc.4",
+    "react-native-charts": "^3.0.0",
+    "react-native-drawer": "^2.5.0",
+    "react-native-elements": "^0.19.0",
+    "react-native-material-ui": "^1.20.0",
+    "react-native-vector-icons": "^4.5.0",
+    "react-navigation": "^1.5.2"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.1",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.2",
+    "react-test-renderer": "16.3.0-alpha.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
