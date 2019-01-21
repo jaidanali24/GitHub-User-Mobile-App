@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0c3108be8b3f13bbdbc93dae45384f5b346b405e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_ca4541f866ed1bd6e918a306097a12d05431fc5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_750f1760000720b08f8ecf08a7ba34b8a972e31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_91f4c4d4d4f524f7c351717eeb1b84e3aaca52ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_e2f917b276efc01d9b2c01a85aa8186e85a31723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_988e7a41d1a1d5589aa986f791fa39690a95881a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.0-rc.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_a61955b6b2cbdf5d5b6c4d02f044da143837bf71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_9b6de566eb1ac1f07fe9f4fd43915f7d186a0f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_1f17191f99744af10da5b58dee6908a613e5387f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.0-rc.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="73fb871c6bb0c9cd4ca41381f04d568fcf7619cf">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.54.0-rc.4_462f359e1aa0152b46e8dc59478fd7a97cdc551d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_03096fb8f482cab1828ec509b1256b0588410420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_d34a5909663539994857296b6382e4b4fde52df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_b49fa2fbfcfaf0d4ccfc0eca7f3198367c37ef31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_908727aee91823a1f8c20c4d5858c89f1ed8c390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_7082d6577cee845c33f628e85c1ec194ea16e472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_e2dddcc2679dab1f75e7d376a9de819ea2d1f6d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a1d6f3f6fc22d485bb9b39847ead924ae8b95292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_c9fc1f278f99df8f7b4bb9eec773b663a87dc9e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_e78a950ff7fa5ebaf63d56d28c820b11f6140c08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_00b61305b9609275dfc4428bf601eed7933a666b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_15eae058f38702625a917103353812193aa85557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_4ccb3b38815a5c6f2c122b3d7fdf8afed02d72eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_eed5679ef0c4b505f810cd574bc83ea694a78bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_4ba8c9545eb911ed11b72bd25c05866e3f6c12e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.0-rc.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_0979847564e1c3284c09056ca82a4ac8df2e0a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_e0a186a43429406543e7e8a4c74124df9dedafb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_9247ed4bc39ea1cc5099745144575b9a63d291c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_32e80efbda5ada8e6400d089eec608484b9d2ac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5c3d94dbde62b8b9f31cda7fc89464e928eacdc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.0-rc.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="73fb871c6bb0c9cd4ca41381f04d568fcf7619cf">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.54.0-rc.4_60f33c0b0a804c2f1881f0e2d2d720b7ef8576a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_c3e3043b4f0234a4b70a2ffa1ab9cd5cba5fa631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_ab6d3eb21a69afb0c19369778a1717a57dcb6237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_98b0442e257333fab517481ac9056d737d1f8208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_b32e9dc99e8f40e388e1c8dffaf5c3786454c57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.0-rc.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_8afcf3081f55babd97fe7eb0a03a5141dc949f66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_7a09e043c56e80b6afdd5da1f47b241fbfba541a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_cf9094fd045c790bdfb81dc4a5c6719b65859909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.0-rc.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="73fb871c6bb0c9cd4ca41381f04d568fcf7619cf">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.54.0-rc.4_2079cdfbad370bb992e19dfe1f31cdf86859829f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_0f90296f849a6519b1b98d68e9dccd1e73a29f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_b3cc73b3fab8bb4dc052b627407b9868dd240176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_68dec07f8bd8dc5df31eb6d091ff1bdd510ab04f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_06a4297c188650248f7f89bbcc890c65a0f064e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_880de1d45e65531bc9252a87110b8abe3cad1e2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.1\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_7469ce9e13ba4069981eba3e55b2580b81b428b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_6f89d3ba69a3272f5aae19838aa1248bb53f8755.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.2\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_97790e9917d438557f26e50f546e5e3f46953cef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\dbron_000\Documents\IllinoisUndergraduate\CS_242\Assignment3.0\MobileApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_3ff029b93b9d25551c6cc7624a93cb1fd731013e.jar" />
+    </item>
+
+</items>
